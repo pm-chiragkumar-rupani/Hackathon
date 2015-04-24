@@ -1,0 +1,76 @@
+body {
+  font-size: 10px;
+}
+
+/* .x-panel-header-text-default { */
+/*     font-size: 16px; */
+/* } */
+
+
+
+.bar {
+  fill: #94AE0A;
+}
+
+.bar:hover {
+  fill: steelblue;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-opacity: 0.5;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: callibri;
+    font-size: 12px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
+#jobAnalysisGraphTooltipId {
+        position: absolute;
+        width: 175px;
+        height: auto;
+        padding: 10px;
+        background-color: white;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+        pointer-events: none;
+}
+
+#jobAnalysisGraphTooltipId.hidden {
+        display: none;
+}
+
+#jobAnalysisGraphTooltipId p {
+        margin: 0;
+        font: Calibri;
+        font-size: 12px;
+        line-height: 20px;
+}
+
+#jobAnalysisGraphTooltipId p strong {
+        font-weight: bold;
+}
+
+.summaryPageFieldSet .x-fieldset-header {	
+	font-size: 14px;
+    font-weight: bold;
+    color: #04408C;
+}
+
+.summaryThresholdPageFieldSet .x-fieldset-header {	
+	font-size: 11px;
+	opacity: 0.8;
+    font-weight: bold;
+    color: #04408C;
+}
+

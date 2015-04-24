@@ -1,0 +1,13 @@
+id,ipaddress,countryName,latitude,longitude,description,health
+1,10.0.0.1,Brasilia,-15.78333333,-47.916667,Ad Server,40
+2,10.0.0.2,Bogota,4.6,-74.083333,Exchange Server,30
+3,10.0.0.3,Cairo,30.05,31.25,Ad Server,80
+4,10.0.0.4,Paris,48.86666667,2.333333,Data Server,10
+5,10.0.0.5,Baghdad,33.33333333,44.4,Log Server,80
+6,10.0.0.6,Seoul,37.55,126.983333,Exchange Server,90
+7,10.0.0.7,Pristina,42.66666667,21.166667,Exchange Server,100
+8,10.0.0.8,Mexico City,19.43333333,-99.133333,Log Server,75
+9,10.0.0.9,Kathmandu,27.71666667,85.316667,Data Server,34
+10,10.0.0.10,Lisbon,38.71666667,-9.133333,Log Server,69
+11,10.0.0.11,Washington DC,38.883333,-77,Data Server,67
+12,10.0.0.12,Montevideo,-34.85,-56.166667,Data Server,98

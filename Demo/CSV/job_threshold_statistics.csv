@@ -1,0 +1,4 @@
+streamName,jobName,scheduleName,thresholdValue
+Group,Job-1,fullData,"{metricBehavior:3948.50310096618,userBehavior:3652}"
+Group,Job-2,weekDay,"{metricBehavior:4.8508417747175,userBehavior:NA}"
+Group,Job-2,weekEnd,"{metricBehavior:16.4460399717422,userBehavior:NA}"

@@ -1,0 +1,50 @@
+body {
+  font-size: 10px;
+}
+
+/* .x-panel-header-text-default { */
+/*     font-size: 16px; */
+/* } */
+
+.graticule {
+  fill: none;
+  stroke: #777;
+  stroke-opacity: .5;
+  stroke-width: .5px;
+}
+
+.land {
+  fill: #2C2C43;
+  stroke: #454569;
+  stroke-width: .5px;
+}
+
+.boundary {
+  fill: none;
+  stroke: #454569;
+  stroke-width: .5px;
+}
+
+.bar {
+  fill: #94AE0A;
+}
+
+.bar:hover {
+  fill: steelblue;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    stroke-opacity: 0.5;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: callibri;
+    font-size: 12px;
+    font-weight: bold;
+    opacity: 0.8;
+}
+
